@@ -1152,3 +1152,4 @@ console.log("Running Swifty Bot!");
         return f.getMode();
     }
 })(window, jQuery);
+
