@@ -4,7 +4,7 @@
 // @include     http://agar.io/*
 // @version     3.05
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      SwiftHD
 // ==/UserScript==
 
 var SwiftyLauncherVersion = 3.05;
